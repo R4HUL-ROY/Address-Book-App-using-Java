@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">sqlite_addressbook</string>
+    <string name="mail_id">mail id</string>
+    <string name="add">ADD</string>
+    <string name="address">address</string>
+    <string name="name">name</string>
+    <string name="contact">contact</string>
+    <string name="enter_name">enter name</string>
+    <string name="enter_address">enter address</string>
+    <string name="enter_phone_number">enter phone number</string>
+    <string name="enter_mail_id">enter mail id</string>
+    <string name="view">VIEW</string>
+</resources>
